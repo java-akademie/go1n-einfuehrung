@@ -1,0 +1,5 @@
+github.com/java-akademie/myutils v0.0.0-20210405023728-0edad161bd92 h1:x0CJi1sXBrtQe9LjFnuone7xUaonrPRKKoco1t/Nk34=
+github.com/java-akademie/myutils v0.0.0-20210405023728-0edad161bd92/go.mod h1:UzYEFR0vd4d1y4pAFoT/ld9bKw2yXlVbnU2QeQP7KIs=
+golang.org/x/text v0.3.6 h1:aRYxNxv6iGQlyVaZmk6ZgYEDa+Jg18DxebPSrd6bg1M=
+golang.org/x/text v0.3.6/go.mod h1:5Zoc/QRtKVWzQhOtBMvqHzDpF6irO9z98xDceosuGiQ=
+golang.org/x/tools v0.0.0-20180917221912-90fa682c2a6e/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
